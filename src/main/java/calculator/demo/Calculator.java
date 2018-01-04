@@ -11,4 +11,11 @@ public class Calculator {
     public int addAtoB(){
         return a+b;
     }
+
+    public int substractAfromB() {
+        return a-b;
+    }
+    public substractBFromA(){
+        return b-a;
+    }
 }
