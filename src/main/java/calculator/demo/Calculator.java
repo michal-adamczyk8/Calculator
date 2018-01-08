@@ -15,7 +15,7 @@ public class Calculator {
     public int substractAfromB() {
         return a-b;
     }
-    public substractBFromA(){
+    public int substractBFromA(){
         return b-a;
     }
 }
